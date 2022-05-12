@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, NodeJS, and anything that I need for a project I want to create.**
 
-- 👨‍💻 All of my projects are available at [https://playful-liger-61ef5e.netlify.app/](https://playful-liger-61ef5e.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jacobyanceydev.netlify.app/](https://jacobyanceydev.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, or anything else. I love learning about new things.**
 
