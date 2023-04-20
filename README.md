@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on [Online Chess](https://github.com/Vastagon/online-chess)
+- 🔭 I’m currently working on [Ecommerce Website](https://github.com/Vastagon/ecommerce)
 
-- 🌱 I’m currently learning **Typescript, React, NodeJS, and anything that I need for a project I want to create.**
+- 🌱 I’m currently learning **Typescript, React, NodeJS, NextJS and anything that I need for a project I want to create.**
 
-- 👨‍💻 All of my projects are available at [https://jacobyanceydev.netlify.app/](https://jacobyanceydev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yanceytech.net/](https://yanceytech.net/)
 
 - 💬 Ask me about **React, JavaScript, or anything else. I love learning about new things.**
 
-- 📫 How to reach me **jacob.yanceytech.net**
+- 📫 How to reach me **jacob@yanceytech.net**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ez_bwQf1_8OU3Dumz0t4PPK4snwmnaV2/edit?usp=sharing&ouid=107197094916864622676&rtpof=true&sd=true](https://docs.google.com/document/d/1ez_bwQf1_8OU3Dumz0t4PPK4snwmnaV2/edit?usp=sharing&ouid=107197094916864622676&rtpof=true&sd=true)
 
